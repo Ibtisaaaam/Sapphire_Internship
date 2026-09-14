@@ -10,4 +10,4 @@ This project represents the completion of Week 1 objectives for the Full Stack I
 
 ## Project Structure
 - `client/` - Modern React application
-- `client/backup-week1/` - Legacy HTML/CSS/JS files preserved for review
+- `client/week-01/` - Legacy HTML/CSS/JS files preserved for review
