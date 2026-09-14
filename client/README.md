@@ -1,16 +1,13 @@
-# React + Vite
+# Sapphire Internship - Week 1 Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project represents the completion of Week 1 objectives for the Full Stack Internship program, transitioning from static web fundamentals to a modern React architecture.
 
-Currently, two official plugins are available:
+## Tech Stack & Features
+- **Frontend Architecture**: React 18 with Vite
+- **Styling**: Custom CSS (Deep Slate & Electric Indigo design system) with CSS Grid & Flexbox
+- **React Hooks**: Managed state using `useState` and handled data fetching using `useEffect`
+- **Version Control**: Git & GitHub repository integration
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Project Structure
+- `client/` - Modern React application
+- `client/backup-week1/` - Legacy HTML/CSS/JS files preserved for review
